@@ -1,0 +1,16 @@
+Prouduct_ID,Product_Code,SubCategory,Category,LeadTime,Price
+20,HG001,Gardening Tools,Household Goods,2,50
+27,HH001,Home Appliances,Household Goods,2,150
+16,HK001,Kitchen,Household Goods,2,23
+15,HK002,Kitchen,Household Goods,2,41
+32,GS001,Seafood,Grocery,3,34
+22,DA001,Alcohol,Drink,2,12
+29,FP001,Prepared,Food,2,18
+11,FF001,Frozen,Food,2,29
+10,GE001,EGGS,Grocery,2,5
+24,GM001,Meats,Grocery,3,17
+5,FB001,BAKERY,Food,2,6
+8,FM001,Milk,Food,2,4
+7,HC001,Cleaning,Household Goods,2,15
+3,DB001,Beverage,Drink,2,8
+12,GA001,Agricultural products,GROCERY,3,6
