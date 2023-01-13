@@ -1,4 +1,4 @@
-Prouduct_ID,Product_Code,SubCategory,Category,LeadTime,Price
+Product_ID,Product_Code,SubCategory,Category,LeadTime,Price
 20,HG001,Gardening Tools,Household Goods,2,50
 27,HH001,Home Appliances,Household Goods,2,150
 16,HK001,Kitchen,Household Goods,2,23
