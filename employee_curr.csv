@@ -1,0 +1,385 @@
+Attrition,Age,Department,DistanceFromHome,EducationField,Gender,MaritalStatus,MonthlyIncome,RelationshipSatisfaction,WorkLifeBalance
+No,34,Research & Development,27,Medical,Female,Single,2311,4,3
+No,27,Research & Development,9,Medical,Female,Single,2279,4,2
+No,36,Research & Development,3,Medical,Male,Single,2088,3,2
+No,30,Research & Development,2,Medical,Female,Single,2564,3,2
+No,28,Research & Development,16,Medical,Male,Single,2144,3,2
+Yes,28,Research & Development,12,Life Sciences,Female,Married,2515,4,2
+No,36,Research & Development,3,Life Sciences,Female,Divorced,2835,1,3
+No,56,Research & Development,1,Life Sciences,Female,Married,2066,4,4
+No,47,Sales,4,Medical,Male,Single,2976,1,3
+No,20,Sales,2,Medical,Female,Single,2783,1,3
+No,30,Research & Development,9,Medical,Male,Single,2206,1,3
+No,28,Research & Development,15,Life Sciences,Male,Divorced,2207,4,2
+No,35,Research & Development,27,Medical,Female,Single,2559,4,2
+No,36,Research & Development,23,Medical,Male,Married,2571,3,3
+No,18,Sales,10,Medical,Female,Single,1200,1,3
+No,32,Research & Development,2,Medical,Female,Married,2370,3,3
+No,34,Research & Development,3,Life Sciences,Male,Married,2979,4,3
+No,37,Sales,4,Marketing,Male,Divorced,2793,3,3
+No,59,Research & Development,3,Life Sciences,Male,Married,2177,1,3
+Yes,18,Research & Development,3,Life Sciences,Male,Single,1420,3,3
+No,27,Research & Development,6,Life Sciences,Male,Married,2539,3,3
+No,26,Research & Development,17,Medical,Male,Married,2305,3,4
+Yes,25,Sales,24,Life Sciences,Male,Single,1118,4,3
+No,36,Human Resources,8,Life Sciences,Male,Married,2342,3,3
+No,28,Sales,10,Medical,Male,Married,1052,2,3
+No,39,Research & Development,1,Medical,Female,Divorced,2232,3,3
+No,35,Research & Development,7,Life Sciences,Male,Married,2690,4,2
+No,27,Research & Development,11,Life Sciences,Male,Married,2099,2,4
+Yes,32,Research & Development,2,Life Sciences,Male,Single,1393,1,3
+Yes,29,Research & Development,1,Life Sciences,Female,Married,2319,4,3
+No,25,Research & Development,7,Medical,Male,Married,2889,3,3
+No,29,Research & Development,28,Life Sciences,Female,Divorced,2514,1,3
+No,30,Sales,7,Marketing,Male,Single,2983,1,3
+No,34,Research & Development,1,Other,Male,Divorced,2996,3,3
+Yes,25,Sales,19,Marketing,Male,Married,2413,3,3
+Yes,37,Human Resources,6,Human Resources,Male,Divorced,2073,4,3
+Yes,33,Research & Development,14,Medical,Male,Married,2436,3,1
+Yes,29,Research & Development,1,Technical Degree,Male,Single,2058,4,2
+No,34,Sales,10,Life Sciences,Female,Married,2220,4,3
+Yes,33,Research & Development,1,Other,Male,Single,2686,3,2
+No,26,Research & Development,7,Medical,Male,Single,2570,3,3
+Yes,51,Research & Development,4,Life Sciences,Male,Married,2461,3,4
+No,27,Research & Development,16,Technical Degree,Female,Married,2811,2,3
+Yes,23,Sales,9,Marketing,Male,Married,1790,1,2
+No,56,Research & Development,9,Medical,Female,Married,2942,2,3
+No,43,Research & Development,7,Medical,Male,Divorced,2089,4,4
+No,29,Research & Development,7,Life Sciences,Male,Single,2062,2,3
+Yes,31,Research & Development,8,Life Sciences,Female,Single,1261,3,4
+No,26,Research & Development,1,Medical,Female,Divorced,2007,3,3
+No,26,Research & Development,6,Life Sciences,Female,Married,2659,3,3
+Yes,19,Sales,1,Technical Degree,Female,Single,2325,1,4
+No,27,Research & Development,9,Medical,Male,Divorced,2024,4,1
+No,38,Research & Development,29,Life Sciences,Female,Single,2406,4,3
+Yes,50,Sales,3,Marketing,Male,Married,2683,3,3
+Yes,20,Research & Development,6,Life Sciences,Female,Single,2926,2,3
+No,18,Research & Development,1,Life Sciences,Female,Single,1611,3,4
+No,42,Research & Development,7,Medical,Female,Married,2372,4,3
+Yes,28,Research & Development,1,Life Sciences,Female,Single,2216,4,3
+No,27,Research & Development,2,Technical Degree,Male,Married,2226,3,2
+No,34,Research & Development,2,Medical,Male,Married,2932,1,3
+No,29,Research & Development,9,Medical,Female,Married,2974,3,3
+Yes,41,Research & Development,5,Life Sciences,Male,Divorced,2107,1,1
+No,26,Human Resources,25,Life Sciences,Female,Married,2942,4,3
+No,18,Research & Development,5,Life Sciences,Male,Single,1051,4,3
+No,35,Research & Development,1,Medical,Male,Single,2450,2,3
+No,27,Research & Development,2,Medical,Male,Single,2580,3,2
+No,43,Research & Development,2,Medical,Female,Divorced,2645,4,2
+No,27,Research & Development,6,Medical,Female,Divorced,2187,3,2
+No,52,Research & Development,8,Other,Female,Married,2950,3,1
+No,38,Research & Development,8,Medical,Female,Divorced,2133,3,3
+Yes,29,Research & Development,24,Life Sciences,Male,Single,2439,2,2
+No,42,Human Resources,2,Technical Degree,Male,Divorced,2696,3,3
+No,44,Research & Development,23,Medical,Male,Married,2042,3,4
+No,23,Research & Development,1,Life Sciences,Male,Married,1223,4,3
+No,22,Research & Development,16,Medical,Male,Divorced,2935,2,2
+No,41,Research & Development,14,Life Sciences,Male,Divorced,2451,1,3
+Yes,20,Sales,9,Marketing,Female,Single,2323,2,3
+Yes,20,Research & Development,4,Technical Degree,Male,Single,2973,2,3
+No,31,Research & Development,11,Life Sciences,Male,Married,2356,2,3
+Yes,58,Research & Development,2,Life Sciences,Male,Divorced,2380,4,2
+No,33,Research & Development,21,Medical,Male,Married,2028,4,3
+Yes,23,Sales,7,Life Sciences,Male,Divorced,2275,2,3
+No,33,Research & Development,3,Life Sciences,Female,Married,2909,3,3
+No,29,Research & Development,15,Life Sciences,Female,Married,2168,1,2
+Yes,18,Sales,3,Medical,Female,Single,1569,3,4
+No,40,Research & Development,1,Life Sciences,Male,Married,2406,3,2
+Yes,40,Research & Development,7,Life Sciences,Male,Single,2166,2,1
+No,29,Sales,20,Technical Degree,Female,Married,2157,2,3
+Yes,20,Research & Development,10,Medical,Male,Single,1009,4,3
+No,30,Research & Development,7,Technical Degree,Male,Divorced,1274,2,2
+No,34,Research & Development,20,Technical Degree,Female,Married,2585,4,2
+No,35,Research & Development,1,Life Sciences,Female,Married,2977,4,3
+Yes,31,Sales,2,Life Sciences,Female,Single,2785,3,4
+No,35,Research & Development,1,Life Sciences,Female,Single,2506,3,3
+No,22,Research & Development,6,Medical,Male,Married,2773,4,3
+No,28,Research & Development,1,Technical Degree,Male,Single,2080,2,2
+No,28,Research & Development,9,Medical,Female,Divorced,2377,2,3
+No,31,Sales,5,Marketing,Female,Divorced,2789,3,2
+No,38,Research & Development,2,Life Sciences,Male,Married,1702,3,3
+Yes,19,Sales,21,Other,Male,Single,2121,2,4
+No,40,Research & Development,2,Life Sciences,Male,Single,4661,3,3
+Yes,31,Research & Development,29,Medical,Male,Single,3479,2,4
+Yes,22,Research & Development,3,Life Sciences,Female,Married,4171,1,4
+Yes,32,Research & Development,16,Life Sciences,Female,Single,3919,2,3
+No,28,Sales,2,Marketing,Female,Married,4779,1,3
+No,34,Sales,23,Marketing,Male,Single,4568,3,3
+No,42,Research & Development,9,Medical,Female,Single,3673,3,3
+No,35,Human Resources,8,Technical Degree,Male,Single,4323,2,1
+No,36,Sales,2,Life Sciences,Female,Single,4502,3,2
+No,24,Research & Development,2,Technical Degree,Female,Single,3760,3,3
+No,46,Research & Development,18,Medical,Female,Divorced,4810,3,2
+No,44,Research & Development,5,Life Sciences,Male,Single,3162,4,3
+No,30,Sales,25,Technical Degree,Female,Married,4736,2,4
+Yes,24,Sales,3,Life Sciences,Female,Single,4577,1,3
+No,31,Research & Development,4,Medical,Female,Divorced,3978,2,2
+Yes,32,Research & Development,1,Life Sciences,Male,Single,3730,4,1
+No,32,Sales,9,Medical,Male,Divorced,4668,4,4
+No,40,Research & Development,8,Life Sciences,Male,Divorced,4069,3,3
+No,32,Research & Development,2,Life Sciences,Female,Single,4998,4,3
+No,29,Research & Development,1,Life Sciences,Female,Divorced,3760,1,3
+No,35,Sales,18,Medical,Female,Married,4601,2,3
+Yes,31,Research & Development,3,Life Sciences,Female,Single,4084,1,1
+Yes,22,Research & Development,4,Technical Degree,Male,Single,3894,3,3
+No,29,Research & Development,27,Medical,Female,Married,4335,1,2
+No,28,Research & Development,2,Life Sciences,Male,Married,3867,2,3
+No,29,Research & Development,28,Medical,Female,Single,3785,2,1
+No,25,Sales,8,Life Sciences,Male,Married,4851,3,3
+No,38,Research & Development,2,Medical,Male,Married,3057,2,1
+No,45,Research & Development,7,Medical,Female,Married,4477,3,2
+Yes,35,Sales,12,Other,Male,Single,4581,1,4
+No,33,Sales,10,Marketing,Male,Single,4682,3,2
+No,28,Sales,7,Life Sciences,Male,Single,4898,4,3
+No,20,Research & Development,3,Life Sciences,Male,Single,3033,1,2
+No,49,Research & Development,25,Life Sciences,Female,Married,3211,4,2
+No,37,Research & Development,1,Medical,Female,Married,3920,1,2
+Yes,33,Research & Development,29,Medical,Female,Single,4508,2,3
+No,35,Research & Development,2,Medical,Female,Single,4425,4,3
+Yes,29,Research & Development,7,Technical Degree,Female,Divorced,3339,1,3
+No,27,Research & Development,1,Medical,Male,Divorced,3816,2,3
+No,29,Research & Development,15,Life Sciences,Female,Single,4193,4,3
+No,33,Research & Development,13,Life Sciences,Female,Single,3452,1,3
+No,34,Research & Development,1,Life Sciences,Female,Married,3294,1,2
+No,27,Research & Development,8,Medical,Female,Married,3517,1,3
+Yes,36,Sales,9,Life Sciences,Male,Single,3407,2,3
+No,33,Research & Development,15,Medical,Female,Married,4878,1,3
+No,39,Research & Development,24,Life Sciences,Male,Single,4108,1,3
+Yes,39,Research & Development,2,Life Sciences,Female,Single,3646,2,4
+No,30,Research & Development,1,Medical,Female,Single,4011,4,3
+No,36,Sales,7,Marketing,Female,Married,4639,4,2
+No,39,Research & Development,18,Life Sciences,Male,Single,4534,1,3
+No,23,Research & Development,4,Medical,Female,Single,3295,3,1
+No,22,Research & Development,1,Life Sciences,Male,Single,3375,4,4
+No,34,Research & Development,2,Medical,Female,Single,4381,3,3
+No,43,Human Resources,2,Life Sciences,Male,Single,3539,2,3
+No,26,Research & Development,11,Medical,Male,Married,4741,3,3
+No,56,Research & Development,8,Life Sciences,Female,Divorced,4257,3,3
+No,25,Research & Development,2,Other,Male,Divorced,3977,3,2
+Yes,50,Sales,1,Other,Male,Single,4728,4,3
+No,30,Research & Development,7,Life Sciences,Male,Divorced,3491,1,2
+No,41,Research & Development,12,Life Sciences,Male,Married,4766,1,3
+No,29,Research & Development,10,Life Sciences,Female,Divorced,3291,4,2
+No,45,Research & Development,8,Other,Male,Married,3697,1,3
+No,34,Research & Development,8,Medical,Male,Married,4404,1,4
+No,38,Research & Development,1,Life Sciences,Male,Married,4735,4,4
+No,31,Research & Development,1,Life Sciences,Female,Married,4148,3,3
+No,37,Research & Development,14,Life Sciences,Female,Divorced,3034,3,2
+No,24,Research & Development,11,Other,Female,Divorced,4011,4,2
+Yes,36,Research & Development,9,Medical,Male,Married,3388,1,2
+No,29,Sales,2,Life Sciences,Male,Single,4554,1,2
+No,34,Research & Development,1,Life Sciences,Male,Married,3622,4,3
+No,38,Research & Development,2,Life Sciences,Male,Single,3944,3,3
+No,42,Research & Development,2,Medical,Male,Married,4841,2,3
+No,25,Research & Development,19,Medical,Male,Married,3669,3,2
+Yes,56,Research & Development,14,Life Sciences,Female,Married,4963,1,3
+No,34,Sales,3,Other,Male,Single,4759,4,3
+No,34,Research & Development,6,Other,Female,Single,4809,3,3
+No,27,Research & Development,17,Technical Degree,Male,Married,3058,4,2
+No,47,Sales,4,Life Sciences,Female,Single,4163,3,3
+No,44,Research & Development,20,Life Sciences,Male,Single,3420,3,2
+No,40,Research & Development,9,Life Sciences,Male,Married,4876,4,1
+No,37,Sales,9,Marketing,Male,Married,4189,1,3
+No,31,Research & Development,1,Medical,Male,Married,4345,4,3
+No,27,Research & Development,8,Medical,Female,Single,3445,3,2
+No,30,Research & Development,1,Medical,Male,Married,3748,3,2
+No,47,Sales,2,Marketing,Female,Married,4537,1,3
+No,35,Sales,1,Marketing,Male,Married,4717,3,3
+No,35,Sales,11,Marketing,Male,Divorced,4968,4,3
+No,37,Research & Development,10,Medical,Female,Married,3452,2,3
+No,44,Research & Development,24,Medical,Male,Single,3708,3,3
+No,33,Sales,7,Medical,Male,Married,4373,1,3
+No,40,Research & Development,26,Medical,Female,Married,4422,4,1
+No,40,Research & Development,12,Life Sciences,Female,Divorced,4448,2,3
+No,34,Research & Development,5,Medical,Male,Married,3986,3,4
+Yes,26,Sales,29,Medical,Male,Single,4969,4,3
+No,32,Sales,26,Marketing,Male,Married,4465,1,3
+No,45,Research & Development,29,Medical,Male,Single,3452,2,2
+No,21,Research & Development,3,Medical,Male,Single,3230,1,4
+No,36,Research & Development,1,Medical,Female,Married,4374,3,3
+No,24,Research & Development,4,Life Sciences,Male,Married,3162,4,2
+No,27,Research & Development,8,Life Sciences,Male,Married,4621,4,3
+No,42,Research & Development,23,Life Sciences,Male,Single,4332,4,3
+No,32,Sales,10,Marketing,Male,Single,4648,3,4
+No,54,Research & Development,10,Medical,Female,Single,4440,4,3
+No,26,Research & Development,1,Life Sciences,Female,Divorced,4364,1,3
+No,26,Research & Development,2,Medical,Male,Single,3904,4,3
+No,42,Research & Development,29,Life Sciences,Female,Divorced,4556,2,3
+Yes,28,Research & Development,2,Medical,Male,Married,3464,4,2
+No,30,Research & Development,2,Life Sciences,Male,Married,4152,1,3
+No,26,Research & Development,1,Medical,Male,Married,3955,1,3
+No,50,Sales,8,Marketing,Male,Married,3875,4,3
+No,26,Sales,29,Medical,Male,Divorced,4306,1,3
+No,30,Research & Development,5,Technical Degree,Female,Divorced,3204,4,3
+No,27,Research & Development,2,Life Sciences,Female,Married,4227,2,3
+No,42,Research & Development,29,Life Sciences,Male,Married,4434,4,2
+No,28,Sales,5,Medical,Male,Single,4908,2,3
+No,37,Research & Development,7,Medical,Male,Married,4284,3,3
+No,28,Human Resources,8,Medical,Male,Divorced,4936,4,3
+No,36,Research & Development,5,Life Sciences,Female,Married,3419,4,4
+No,34,Sales,2,Marketing,Female,Single,4538,4,3
+Yes,35,Sales,18,Marketing,Female,Married,4614,3,2
+No,36,Research & Development,3,Technical Degree,Male,Single,4485,4,3
+No,24,Sales,10,Marketing,Female,Divorced,4260,4,4
+No,36,Research & Development,12,Life Sciences,Female,Married,4663,2,3
+Yes,37,Research & Development,11,Medical,Female,Married,4777,1,1
+No,34,Human Resources,11,Life Sciences,Male,Married,4490,4,4
+Yes,35,Research & Development,14,Other,Male,Divorced,3743,4,1
+No,52,Sales,29,Life Sciences,Male,Divorced,3482,2,2
+No,34,Research & Development,6,Life Sciences,Female,Divorced,4505,3,3
+No,38,Research & Development,6,Other,Female,Married,3702,2,3
+No,55,Research & Development,4,Life Sciences,Male,Married,4035,2,3
+Yes,28,Research & Development,2,Life Sciences,Male,Single,3485,3,1
+Yes,29,Research & Development,1,Medical,Male,Married,4787,2,4
+No,29,Research & Development,19,Technical Degree,Male,Divorced,4262,2,4
+No,21,Research & Development,5,Medical,Male,Single,3117,3,3
+No,27,Sales,20,Life Sciences,Female,Single,9981,4,3
+Yes,48,Research & Development,1,Life Sciences,Male,Single,5381,4,3
+No,50,Research & Development,11,Life Sciences,Female,Single,19926,2,3
+No,55,Sales,26,Marketing,Male,Married,19586,3,3
+No,47,Human Resources,26,Life Sciences,Female,Married,19658,3,3
+No,34,Research & Development,3,Life Sciences,Male,Single,7756,3,2
+No,34,Research & Development,10,Technical Degree,Male,Married,5063,2,2
+No,26,Research & Development,2,Medical,Male,Married,5472,2,3
+Yes,43,Sales,9,Marketing,Female,Single,5346,2,2
+No,36,Sales,1,Medical,Female,Single,6653,2,3
+No,52,Sales,2,Life Sciences,Male,Single,19068,4,4
+No,34,Research & Development,2,Technical Degree,Female,Single,6687,4,4
+Yes,38,Research & Development,29,Medical,Male,Married,6673,2,3
+Yes,41,Sales,4,Marketing,Male,Single,9355,3,3
+No,36,Research & Development,24,Life Sciences,Female,Married,5674,3,3
+No,35,Sales,8,Marketing,Female,Married,10377,2,2
+No,40,Sales,2,Marketing,Female,Married,5677,3,3
+No,41,Research & Development,28,Life Sciences,Female,Married,13570,3,3
+No,59,Sales,25,Life Sciences,Female,Single,7637,4,2
+No,40,Sales,26,Marketing,Male,Married,8396,2,2
+No,46,Sales,1,Marketing,Female,Divorced,10453,3,3
+No,32,Research & Development,3,Life Sciences,Female,Single,11159,4,3
+No,33,Research & Development,1,Life Sciences,Female,Single,13458,3,3
+No,45,Sales,2,Technical Degree,Male,Single,6632,1,3
+Yes,34,Human Resources,23,Human Resources,Female,Divorced,9950,3,3
+No,54,Sales,3,Marketing,Female,Married,5940,4,3
+No,39,Research & Development,25,Life Sciences,Male,Married,10920,2,3
+No,39,Research & Development,9,Medical,Male,Married,5151,4,3
+No,33,Research & Development,6,Life Sciences,Male,Divorced,7725,3,1
+No,56,Research & Development,4,Technical Degree,Female,Divorced,19943,4,3
+No,36,Sales,16,Marketing,Female,Married,5647,1,2
+No,49,Research & Development,20,Medical,Female,Married,6567,3,2
+No,33,Research & Development,8,Life Sciences,Male,Single,6388,1,3
+No,59,Sales,3,Life Sciences,Female,Single,5171,4,3
+Yes,40,Sales,22,Marketing,Male,Married,6380,1,3
+No,47,Research & Development,14,Technical Degree,Male,Married,5467,3,4
+Yes,53,Research & Development,2,Technical Degree,Female,Married,10169,2,3
+No,27,Research & Development,1,Life Sciences,Female,Married,7412,4,3
+No,40,Research & Development,6,Life Sciences,Female,Single,13237,3,3
+No,40,Research & Development,9,Medical,Female,Single,13499,3,2
+No,38,Human Resources,10,Human Resources,Male,Married,6077,3,3
+No,27,Sales,2,Life Sciences,Male,Single,5071,2,3
+No,41,Sales,6,Marketing,Male,Single,9241,2,3
+No,34,Sales,21,Life Sciences,Male,Single,5337,4,3
+No,33,Sales,2,Marketing,Female,Single,5147,4,2
+No,45,Research & Development,28,Technical Degree,Female,Single,16704,3,3
+Yes,29,Sales,23,Life Sciences,Female,Married,7336,1,1
+No,39,Human Resources,2,Life Sciences,Female,Married,5204,3,3
+Yes,44,Research & Development,15,Medical,Female,Married,7978,4,3
+No,34,Sales,9,Life Sciences,Female,Married,5714,1,2
+No,33,Sales,8,Marketing,Male,Divorced,7104,4,3
+No,29,Sales,19,Life Sciences,Male,Divorced,8620,3,3
+No,48,Research & Development,10,Life Sciences,Male,Married,19665,4,3
+Yes,39,Research & Development,2,Life Sciences,Male,Divorced,12169,4,3
+No,42,Research & Development,17,Life Sciences,Female,Single,6545,3,3
+Yes,40,Sales,25,Marketing,Male,Single,9094,3,3
+Yes,32,Sales,1,Life Sciences,Male,Single,6735,2,3
+No,32,Research & Development,5,Life Sciences,Female,Married,5878,1,3
+No,50,Human Resources,3,Medical,Male,Married,18200,3,3
+No,32,Research & Development,24,Life Sciences,Male,Married,5309,4,3
+Yes,35,Sales,10,Medical,Male,Married,10306,3,3
+No,40,Research & Development,1,Life Sciences,Male,Divorced,16823,1,3
+Yes,30,Sales,26,Marketing,Female,Single,6696,3,2
+No,29,Research & Development,1,Life Sciences,Male,Married,5373,1,2
+No,31,Research & Development,24,Medical,Female,Single,6812,2,3
+No,47,Research & Development,25,Medical,Male,Single,8633,2,3
+No,41,Human Resources,1,Human Resources,Male,Married,19189,2,3
+No,45,Sales,11,Life Sciences,Female,Married,17650,2,4
+No,36,Research & Development,8,Technical Degree,Female,Divorced,10096,2,3
+No,35,Research & Development,6,Life Sciences,Male,Single,6646,2,3
+No,43,Research & Development,7,Life Sciences,Female,Married,9985,1,2
+No,41,Sales,23,Life Sciences,Male,Single,7082,4,3
+No,44,Sales,1,Marketing,Female,Divorced,5454,3,2
+No,42,Human Resources,10,Human Resources,Female,Married,16799,3,3
+No,46,Sales,5,Marketing,Male,Single,5772,3,3
+No,34,Research & Development,1,Medical,Male,Single,5343,3,3
+No,46,Human Resources,5,Medical,Male,Divorced,5021,4,3
+No,36,Sales,17,Marketing,Male,Married,5507,3,1
+No,37,Research & Development,7,Medical,Male,Single,13664,1,4
+No,43,Sales,4,Marketing,Female,Single,10231,4,4
+No,32,Research & Development,2,Medical,Female,Single,5055,3,2
+No,56,Human Resources,8,Life Sciences,Male,Single,19717,1,3
+No,49,Sales,2,Medical,Male,Married,5390,4,2
+No,32,Sales,8,Technical Degree,Female,Married,5228,4,3
+No,30,Research & Development,20,Other,Male,Married,9957,3,2
+No,34,Research & Development,7,Life Sciences,Female,Single,11994,3,3
+Yes,28,Sales,13,Marketing,Female,Single,9854,4,3
+No,42,Research & Development,2,Life Sciences,Male,Married,17861,4,2
+Yes,31,Research & Development,22,Medical,Male,Married,6179,4,2
+No,40,Sales,7,Medical,Male,Single,19833,2,2
+No,30,Research & Development,2,Life Sciences,Female,Single,6091,3,3
+No,41,Sales,4,Marketing,Female,Divorced,10447,4,4
+No,48,Research & Development,4,Medical,Male,Married,15202,2,3
+No,29,Research & Development,3,Medical,Male,Married,11935,3,3
+No,29,Research & Development,21,Life Sciences,Female,Divorced,9980,3,3
+No,35,Research & Development,9,Life Sciences,Female,Married,10685,2,3
+No,30,Research & Development,2,Medical,Female,Single,6877,2,2
+No,33,Research & Development,1,Other,Female,Married,5488,1,3
+No,32,Research & Development,9,Life Sciences,Female,Married,6322,4,2
+No,46,Research & Development,1,Medical,Male,Divorced,19627,4,3
+No,36,Research & Development,1,Technical Degree,Female,Divorced,10252,3,3
+No,37,Sales,9,Medical,Male,Divorced,8834,4,3
+No,43,Research & Development,11,Life Sciences,Male,Married,7510,2,3
+No,33,Sales,22,Marketing,Male,Married,6146,1,4
+No,44,Research & Development,2,Life Sciences,Female,Married,7879,2,3
+No,39,Sales,2,Life Sciences,Male,Single,7880,4,3
+No,37,Sales,2,Marketing,Male,Married,9602,3,2
+No,51,Sales,21,Marketing,Male,Single,5441,4,1
+No,57,Sales,29,Marketing,Male,Divorced,14118,3,2
+Yes,32,Sales,2,Marketing,Male,Single,9907,3,2
+No,50,Research & Development,28,Life Sciences,Female,Married,16880,2,3
+No,35,Research & Development,11,Medical,Male,Married,9884,3,3
+No,58,Sales,21,Life Sciences,Female,Married,17875,3,2
+No,39,Sales,15,Marketing,Male,Single,13341,1,3
+Yes,58,Research & Development,23,Medical,Female,Married,10312,4,2
+No,34,Research & Development,9,Medical,Female,Single,8621,2,4
+No,38,Research & Development,23,Life Sciences,Male,Divorced,5745,2,3
+No,29,Research & Development,8,Medical,Male,Married,5056,3,2
+Yes,46,Research & Development,21,Medical,Female,Married,8926,4,4
+No,39,Research & Development,7,Medical,Male,Married,19272,1,3
+No,53,Research & Development,3,Medical,Male,Married,17584,4,2
+No,40,Research & Development,16,Medical,Male,Single,5094,4,3
+No,37,Research & Development,19,Life Sciences,Male,Married,5768,1,2
+No,58,Research & Development,1,Medical,Female,Married,19701,3,3
+No,38,Research & Development,29,Technical Degree,Male,Married,6261,1,1
+No,28,Sales,1,Life Sciences,Male,Married,6834,3,3
+No,44,Research & Development,7,Medical,Female,Married,10248,4,3
+No,32,Sales,5,Life Sciences,Male,Married,6524,4,3
+Yes,55,Research & Development,2,Medical,Male,Married,19859,4,3
+No,32,Research & Development,1,Medical,Male,Married,6162,2,3
+No,31,Sales,6,Medical,Male,Divorced,5460,4,4
+No,50,Sales,1,Medical,Female,Divorced,19517,3,2
+No,45,Research & Development,29,Technical Degree,Male,Married,9380,4,4
+Yes,41,Sales,1,Life Sciences,Female,Single,5993,1,1
+No,60,Research & Development,7,Life Sciences,Female,Married,19566,4,1
+No,52,Sales,3,Marketing,Male,Married,16856,1,4
+No,34,Research & Development,9,Life Sciences,Male,Divorced,8500,4,2
+No,45,Research & Development,1,Other,Male,Married,19202,3,3
+No,42,Research & Development,13,Medical,Male,Married,5538,3,2
+No,27,Sales,10,Marketing,Female,Married,5769,4,3
+Yes,33,Sales,16,Life Sciences,Female,Single,8564,3,2
+No,32,Research & Development,2,Medical,Male,Divorced,5470,3,2
+Yes,30,Sales,1,Life Sciences,Male,Married,9714,4,3
+No,49,Research & Development,1,Life Sciences,Male,Single,15379,1,3
+No,38,Research & Development,18,Medical,Male,Married,5811,3,3
+No,27,Sales,2,Medical,Female,Single,6500,2,2
+No,33,Research & Development,1,Life Sciences,Female,Single,6949,1,3
+No,53,Sales,1,Medical,Female,Single,8381,4,4
+Yes,36,Sales,3,Life Sciences,Male,Married,10325,1,3
+No,48,Sales,2,Marketing,Male,Married,8120,4,3
